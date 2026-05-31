@@ -4,8 +4,7 @@
       "id": "task_1780215223055",
       "title": "Say hello world the next time i pseak to you",
       "description": "Say hello world the next time i pseak to you",
-      "status": "scheduled",
-      "scheduledAt": "2026-05-31T08:14:00.000Z",
+      "status": "in_progress",
       "priority": "high",
       "project": "system",
       "tags": [
