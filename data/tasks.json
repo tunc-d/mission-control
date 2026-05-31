@@ -1,18 +1,4 @@
 {
-  "tasks": [
-    {
-      "id": "task_1780215186270",
-      "title": "test",
-      "description": "",
-      "status": "scheduled",
-      "scheduledAt": "2026-06-01T06:13:00.000Z",
-      "priority": "medium",
-      "project": "system",
-      "tags": [
-        "scheduled"
-      ],
-      "subtasks": [],
-      "createdAt": "2026-05-31T08:13:06.270Z"
-    }
-  ]
+  "tasks": [],
+  "lastUpdated": "2026-05-31T08:13:14.119Z"
 }
